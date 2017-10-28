@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<overlay id="keyhttpsOverlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script>
+    function keyhttps() {
+      var bar = document.getElementById('urlbar');
+      bar.focus();
+      bar.value = 'https://';
+    }
+  </script>
+  <keyset>
+    <key id="keyhttps-key" modifiers="control" key=";" oncommand="keyhttps();"/>
+  </keyset>
+</overlay>
