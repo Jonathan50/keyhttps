@@ -4,7 +4,7 @@
     <em:id>keyhttps@jonathan50.github.io</em:id>
     <em:type>2</em:type>
     <em:name>KeyHTTPS</em:name>
-    <em:version>0.9.0</em:version>
+    <em:version>0.9.1</em:version>
     <em:description>
       Provides Control-; as an alternative to Control-L. This keyboard shortcut focuses on the URL bar and enters "https://".
     </em:description>
