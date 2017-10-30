@@ -9,7 +9,7 @@
       Provides Control-; and Control-Y as HTTPS counterparts to Control-L and Control-T respectively.
     </em:description>
     <em:creator>Jonathan50</em:creator>
-    <em:homepageURL>http://jonathan50.github.io/keyhttps/</em:homepageURL>
+    <em:homepageURL>https://github.com/Jonathan50/keyhttps</em:homepageURL>
     <em:targetApplication>
       <Description>
         <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
