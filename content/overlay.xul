@@ -6,8 +6,14 @@
       bar.focus();
       bar.value = 'https://';
     }
+
+    function httpstab() {
+      gBrowser.loadOneTab('', {inBackground: false});
+      keyhttps();
+    }
   </script>
   <keyset>
     <key id="keyhttps-key" modifiers="control" key=";" oncommand="keyhttps();"/>
+    <key id="httpstab-key" modifiers="control" key="y" oncommand="httpstab();"/>
   </keyset>
 </overlay>

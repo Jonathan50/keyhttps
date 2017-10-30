@@ -4,16 +4,16 @@
     <em:id>keyhttps@jonathan50.github.io</em:id>
     <em:type>2</em:type>
     <em:name>KeyHTTPS</em:name>
-    <em:version>0.9.1</em:version>
+    <em:version>0.9.2</em:version>
     <em:description>
-      Provides Control-; as an alternative to Control-L. This keyboard shortcut focuses on the URL bar and enters "https://".
+      Provides Control-; and Control-Y as HTTPS counterparts to Control-L and Control-T respectively.
     </em:description>
     <em:creator>Jonathan50</em:creator>
     <em:homepageURL>http://jonathan50.github.io/keyhttps/</em:homepageURL>
     <em:targetApplication>
       <Description>
         <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
-        <em:minVersion>3.0</em:minVersion>
+        <em:minVersion>3.6</em:minVersion>
         <em:maxVersion>56.0</em:maxVersion>
       </Description>
     </em:targetApplication>
